@@ -1,6 +1,6 @@
 # react-native-weather
 
-Learning React Native by building a Weather App using Expo https://docs.expo.io/
+Learning React Native by building a Weather App using [Expo](https://docs.expo.io/)
 
 ## Weather API
 
