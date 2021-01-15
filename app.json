@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-weather",
-    "slug": "react-native-weather",
+    "name": "Weather App by React Native ",
+    "slug": "weather-app-by-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "You can download Expo app, then scan QR code to launch this app.",
+    "githubUrl": "https://github.com/indiu6/react-native-weather"
   }
 }
