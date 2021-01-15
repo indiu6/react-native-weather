@@ -5,10 +5,12 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 
 export default function Weather({ temp, condition, name }) {
+  console.log(temp);
   console.log(condition);
+  console.log(name);
   return (
     <LinearGradient
-      colors={weatherOptions[condition]?.gradient}
+      colors={weatherOptions[condition].gradient}
       style={styles.container}
     >
       {/* <StatusBar barStyle={'light-content'} /> */}
